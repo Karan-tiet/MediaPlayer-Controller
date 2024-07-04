@@ -1,7 +1,7 @@
 # MediaPlayer-Controller
 detects hand signs to control vlc media player
 
-#Step - 1  -Import Libraries and capture camera
+#Step - 1  -Import Libraries and capture camera<br  />
 #Step - 2  -Convert frames Into hsv
 #Step - 3  -Track hand on color basis 
 #Step - 4  -Create mask on the basis of color and filter actual color 
