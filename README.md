@@ -11,3 +11,11 @@ detects hand signs to control vlc media player
 #Step - 8  -Find Convexity detect  for counting Values and Apply Cosin method<br  />
 #Step - 9  -Bind hand gestures with keyboard keys.<br  />
 #Step -10  -Enjoy your output<br  />
+
+works based on number of hand digits detected<br  />
+    0 digits :- no action 
+    1 digits :- Play/Pause 
+    2 digits :- Volume Up
+    3 digits :- Volume Down 
+    4 digits :- Forward 
+  
